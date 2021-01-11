@@ -1,0 +1,35 @@
+img {
+    height: 200px;
+}
+
+.header {
+    background-color: lightblue;
+    padding: 10px;
+    border: dashed blue;
+}
+
+.troy {
+    background-color: yellow;
+    border: dashed red;
+    padding: 30px;
+}
+.richard{
+    border:dashed purple;
+    background-color:pink;
+    padding:20px;
+}
+.duchess{
+    background-color:purple;
+    border:dashed pink;
+    padding:50px;
+}
+.dogs{
+    border:dashed orange;
+    background-color:red;
+    padding:10px;
+}
+.cats{
+    border:dashed blue;
+    padding:15px;
+    background-color:pink;
+}
